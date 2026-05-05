@@ -1,2 +1,7 @@
-# vse-motion
-Blender VSE Image and video Motion Library Addon
+# VSE Motion Addon
+
+This is a Blender addon for motion effects in Video Sequence Editor.
+
+## Features
+- Image motion presets
+- Easy UI
