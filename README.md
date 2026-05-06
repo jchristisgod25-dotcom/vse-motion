@@ -2,17 +2,17 @@
 
 This is a Blender addon for motion effects in Video Sequence Editor.
 
-### This isn't just an add-on…
+# This isn't just an add-on…
 
 This is a library of ready-made animations that completely transforms how you work in VSE.
 
 Instead of wasting time creating animations, you can now:
 
-- 🎬 Choose the video or image you want to animate
-- 🎯 Select the animation
-- ⚡ Press a button and watch the animation happen instantly
+- # 🎬 Choose the video or image you want to animate
+- # 🎯 Select the animation
+- # ⚡ Press a button and watch the animation happen instantly
 
-## 🚀 What does this add-on do?
+# 🚀 What does this add-on do?
 
 Within a simple Blender interface, you gain powerful capabilities:
 
@@ -32,7 +32,7 @@ Within a simple Blender interface, you gain powerful capabilities:
 - Smooth and slow in/out
 - Cinematic speed settings
 
-## And that's not all!
+# And that's not all!
 
 Each animation can have its own unique sound.
 
