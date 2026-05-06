@@ -8,9 +8,9 @@ This is a library of ready-made animations that completely transforms how you wo
 
 Instead of wasting time creating animations, you can now:
 
-- # 🎬 Choose the video or image you want to animate
-- # 🎯 Select the animation
-- # ⚡ Press a button and watch the animation happen instantly
+- ### 🎬 Choose the video or image you want to animate
+- ### 🎯 Select the animation
+- ### ⚡ Press a button and watch the animation happen instantly
 
 # 🚀 What does this add-on do?
 
