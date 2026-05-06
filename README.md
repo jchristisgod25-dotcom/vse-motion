@@ -2,11 +2,7 @@
 
 This is a Blender addon for motion effects in Video Sequence Editor.
 
-## Features
-- Presets for image and video movement
-
-
-## This isn't just an add-on…
+# This isn't just an add-on…
 
 This is a library of ready-made animations that completely transforms how you work in VSE.
 
@@ -21,23 +17,23 @@ Instead of wasting time creating animations, you can now:
 Within a simple Blender interface, you gain powerful capabilities:
 
 🎥 Ready-made animations
-Zoom In
-Zoom Out
-Bounce Zoom
-Pulse
-Ultra Zoom
+- Zoom In
+- Zoom Out
+- Bounce Zoom
+- Pulse
+- Ultra Zoom
 
-🌫 Fade In
-Fade Out
-Blink
+- 🌫 Fade In
+- Fade Out
+- Blink
 
 🔄 Motion control
 
-Turn left and right
-Smooth and slow in/out
-Cinematic speed settings
+- Turn left and right
+- Smooth and slow in/out
+- Cinematic speed settings
 
-And that's not all!
+## And that's not all!
 
 Each animation can have its own unique sound.
 
