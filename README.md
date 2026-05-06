@@ -22,8 +22,8 @@ Within a simple Blender interface, you gain powerful capabilities:
 - Bounce Zoom
 - Pulse
 - Ultra Zoom
-
-- 🌫 Fade In
+- 
+- Fade In
 - Fade Out
 - Blink
 
@@ -41,6 +41,7 @@ For example, when a fade-in animation occurs, a transition sound plays.
 
 You can choose a sound from your device, and when you tap the animation, the sound will play along.
 
-You can choose a single sound 🎵 or an entire folder full of sounds 📁.
+- You can choose a single sound 🎵 
+- or an entire folder full of sounds 📁.
 
 You can also choose a sound for each animation.
