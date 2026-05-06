@@ -2,7 +2,7 @@
 
 This is a Blender addon for motion effects in Video Sequence Editor.
 
-# This isn't just an add-on…
+### This isn't just an add-on…
 
 This is a library of ready-made animations that completely transforms how you work in VSE.
 
