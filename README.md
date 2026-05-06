@@ -22,7 +22,6 @@ Within a simple Blender interface, you gain powerful capabilities:
 - Bounce Zoom
 - Pulse
 - Ultra Zoom
-- 
 - Fade In
 - Fade Out
 - Blink
